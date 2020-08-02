@@ -1,4 +1,4 @@
-# Movie List
+# [Movie List](https://william0832.github.io/my_movie_list/.)
 
 A simple web application for movie fanatic
 
